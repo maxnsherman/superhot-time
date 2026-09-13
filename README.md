@@ -1,4 +1,4 @@
-Supertime is an immersive Minecraft mod inspired by the mechanics of the iconic game SUPERHOT. This modification completely transforms your survival experience by binding the flow of in-game time directly to your movements.
+Supertime (fabric 1.20.1) is an immersive Minecraft mod inspired by the mechanics of the iconic game SUPERHOT. This modification completely transforms your survival experience by binding the flow of in-game time directly to your movements.
 
 When you stand completely still, the world freezes entirely. But the moment you turn, step forward, or enter combat, time springs back to life.
 
@@ -18,4 +18,4 @@ Smooth Client-Side Rendering: Built with advanced frame interpolation fixes to e
 
 Tactical Combat: Turn chaotic monster hordes into a puzzle of positioning, reflexes, and precision.
 
-SuperTime by Wonke a.k.a. maxnsherman
+SuperTime (fabric 1.20.1) by Wonke a.k.a. maxnsherman
